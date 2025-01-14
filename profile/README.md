@@ -2,6 +2,6 @@
 
 <div align="center">
 
-🔖 [Collection](https://elizaos.github.io/eliza/](https://www.tensor.trade/trade/ai16z_partners)
+🔖 Join our partners: [Tensor](https://www.tensor.trade/trade/ai16z_partners) | [Magic Eden](https://magiceden.io/ru/marketplace/ai16z_partners)
 
 </div>
